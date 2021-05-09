@@ -174,10 +174,10 @@ while (loop == 'true'):
         os.system('xdg-open https://youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
  
             
-    e
+    
         
         
- https:
+ 
  
  
 ##### LICENSE #####
