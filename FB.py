@@ -165,12 +165,12 @@ while (loop == 'true'):
             print "Logged in successfully as " + username #Dev: ALOnE HAcKeR
 	    time.sleep(2)
             loop = 'false'
-        else:
-            print "\033[1;94mWrong Password"
-            os.system('xdg-open/https://www.facebook.com/syedRahim88899
-    else:
-        print "\033[1;94mWrong Username"
-        os.system('xdg-open/https://www.facebook.com/syedRahim8899
+        
+           
+            
+    els
+        
+        
  https:
  
  
