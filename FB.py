@@ -166,7 +166,7 @@ while (loop == 'true'):
 	    time.sleep(2)
             loop = 'false'
         
-           else:
+           
             print "\033[1;94mWrong Password"
             os.system('xdg-open https://youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
     else:
